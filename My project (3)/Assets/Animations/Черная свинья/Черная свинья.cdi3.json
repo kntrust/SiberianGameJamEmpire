@@ -1,0 +1,37 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamHandR",
+			"GroupId": "",
+			"Name": "HandR"
+		},
+		{
+			"Id": "ParamHandL",
+			"GroupId": "",
+			"Name": "HandL"
+		},
+		{
+			"Id": "ParamFootL",
+			"GroupId": "",
+			"Name": "FootL"
+		},
+		{
+			"Id": "ParamFootR",
+			"GroupId": "",
+			"Name": "FootR"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": []
+}

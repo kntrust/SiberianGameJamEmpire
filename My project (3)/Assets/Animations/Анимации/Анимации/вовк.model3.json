@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "вовк.moc3",
+		"Textures": [
+			"вовк.4096/texture_00.png"
+		],
+		"Physics": "вовк.physics3.json",
+		"DisplayInfo": "вовк.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

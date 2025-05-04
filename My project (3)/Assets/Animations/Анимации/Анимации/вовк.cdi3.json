@@ -1,0 +1,280 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamStepBlack",
+			"GroupId": "",
+			"Name": "Step black"
+		},
+		{
+			"Id": "ParamStepBlack2",
+			"GroupId": "",
+			"Name": "Step black"
+		},
+		{
+			"Id": "ParamStepBlack3",
+			"GroupId": "",
+			"Name": "Step black"
+		},
+		{
+			"Id": "ParamStepBlack4",
+			"GroupId": "ParamGroup2",
+			"Name": "Step gr"
+		},
+		{
+			"Id": "ParamStepBlack5",
+			"GroupId": "ParamGroup2",
+			"Name": "Step gr"
+		},
+		{
+			"Id": "ParamStepBlack6",
+			"GroupId": "ParamGroup2",
+			"Name": "Step gr"
+		},
+		{
+			"Id": "ParamSquish",
+			"GroupId": "",
+			"Name": "Step squish"
+		},
+		{
+			"Id": "ParamSquish2",
+			"GroupId": "",
+			"Name": "Step squish"
+		},
+		{
+			"Id": "ParamSquish3",
+			"GroupId": "",
+			"Name": "Мех физика"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamMouthOpenY2",
+			"GroupId": "",
+			"Name": "Mouth Open ph"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "Поворот кольца"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "Поворот кольца"
+		},
+		{
+			"Id": "ParamMousex2",
+			"GroupId": "",
+			"Name": "Mouse x"
+		},
+		{
+			"Id": "ParamMouseY2",
+			"GroupId": "",
+			"Name": "Mouse Y"
+		},
+		{
+			"Id": "ParamEar",
+			"GroupId": "",
+			"Name": "Уши"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront2",
+			"GroupId": "",
+			"Name": "arm"
+		},
+		{
+			"Id": "ParamHairFront3",
+			"GroupId": "",
+			"Name": "hand"
+		},
+		{
+			"Id": "ParamHairFront4",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront5",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront6",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront7",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront8",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront10",
+			"GroupId": "",
+			"Name": "arm"
+		},
+		{
+			"Id": "ParamHairFront11",
+			"GroupId": "",
+			"Name": "hand"
+		},
+		{
+			"Id": "ParamHairFront12",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront13",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront14",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront15",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairFront16",
+			"GroupId": "",
+			"Name": "fing1"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "Топор"
+		},
+		{
+			"Id": "ParamHairSide3",
+			"GroupId": "",
+			"Name": "Нож"
+		},
+		{
+			"Id": "ParamHairSide4",
+			"GroupId": "",
+			"Name": "Имплант уха"
+		},
+		{
+			"Id": "ParamHairSide2",
+			"GroupId": "",
+			"Name": "Топор физика"
+		},
+		{
+			"Id": "ParamBlood",
+			"GroupId": "",
+			"Name": "Кровь на волке"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[0]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[1]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[2]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[3]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[4]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[5]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[6]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_8_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[7]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_9_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[8]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_10_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[9]хвост"
+		},
+		{
+			"Id": "Param_Angle_Rotation_11_ArtMesh32",
+			"GroupId": "ParamGroup",
+			"Name": "[10]хвост"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Folder 1"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "хвост"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "Folder 1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Folder 2"
+		},
+		{
+			"Id": "ArtMesh32_Skinning",
+			"Name": "хвост(Skinning)"
+		},
+		{
+			"Id": "Part3",
+			"Name": "хвост(Rotation)"
+		}
+	]
+}

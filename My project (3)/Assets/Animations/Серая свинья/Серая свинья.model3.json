@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Серая свинья.moc3",
+		"Textures": [
+			"Серая свинья.1024/texture_00.png"
+		],
+		"DisplayInfo": "Серая свинья.cdi3.json"
+	}
+}
